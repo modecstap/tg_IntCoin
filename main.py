@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-
+#test
 bot = telebot.TeleBot('6853421878:AAEMv3-_PF8FF7GNG8c_o-Ep4iEMB2-Arn8')
 
 # Состояния бота
